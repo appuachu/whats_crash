@@ -5,16 +5,17 @@
 
   
   <h1>Installation</h1>
-  
-  
-  
+  git clone https://github.com/appuachu/whats_crash.git<br>
+  cd whats_crash<br>
+  chmod +x whats.php
+  php whats.php
   
   
   
   <h1>AVAILABLE ON</h1><br>
-  <h4>Kali linux</h4><br>
-  <h4>Termux</h4><br>
-  <h4>Ubuntu</h4><br>
+  Kali linux<br>
+  Termux<br>
+  Ubuntu<br>
   
   
   
