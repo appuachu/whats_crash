@@ -1,6 +1,6 @@
 # whats_crash
 
-<h1>ABOUT TOOL:</h1><BR>
+<h2>ABOUT TOOL:</h2><BR>
   <h3>This tool only for fun purpose! Don't use it for taking revenge.This tool is created by Reverse Character Unicode Method.This script is used for crashing whatsapp through message</h3>
 
   
