@@ -1,7 +1,7 @@
 # whats_crash
 
 <h2>ABOUT TOOL:</h2><BR>
-  <h3>This tool only for fun purpose! Don't use it for taking revenge.This tool is created by Reverse Character Unicode Method.This script is used for crashing whatsapp,Telegram through message.This Script hang only for 40s</h3>
+  <h3>This tool only for fun purpose! Don't use it for taking revenge.This tool is created by Reverse Character Unicode Method.This script is used for crashing whatsapp,Telegram through message.This Script hang only for 40s.</h3>
 
   
   <h1>Installation</h1>
