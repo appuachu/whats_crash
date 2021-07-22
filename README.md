@@ -12,9 +12,9 @@
   
   
   <h1>AVAILABLE ON</h1><br>
-  Kali linux<br>
-  Termux<br>
-  Ubuntu<br>
+  <h3>Kali linux</h3><br>
+  <h3>Termux</h3><br>
+  <h3>Ubuntu</h3><br>
   
   
   
