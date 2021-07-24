@@ -21,7 +21,8 @@
   There is Mainly Three virus in whats_crash. virus.php,url.php and voucher.php. virus.php is a click virus it work when we click the message it will crash,also the url.php and voucher.php is almost same. In this php file it contain url of a website when the victim click the link his account will be crash for 40s. 
   
   
-  
+  $ php virus.php  - it generate a click message when the message click by victim it will crash <br>
+  $ php url.php    - it generate a link when attacker send the link to the victim when he click the link it will crash his account<br>
   
   
   
