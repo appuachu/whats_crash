@@ -14,7 +14,9 @@
          OR<br>
   php voucher.php<br>
   OR<br>
-  bash url.sh
+  bash url.sh<br>
+  OR<br>
+  bash voucher.sh
   
   
   
@@ -25,6 +27,7 @@
   $ php url.php<br>
   $ php voucher.php<br>
   $ bash url.sh<br>
+  $ bash voucher.sh
   There is Mainly Three virus in whats_crash. virus.php,url.php and voucher.php. virus.php is a click virus it work when we click the message it will crash,also the url.php and voucher.php is almost same. In this php file it contain url of a website when the victim click the link his account will be crash for 40s. 
   
   
