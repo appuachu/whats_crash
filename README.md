@@ -8,7 +8,11 @@
   git clone https://github.com/appuachu/whats_crash.git<br>
   cd whats_crash<br>
   chmod +x virus.php<br>
-  php virus.php OR  url.php
+  php virus.php<br>
+         OR<br>
+  php url.php<br>
+         OR<br>
+  php voucher.php
   
   
   
