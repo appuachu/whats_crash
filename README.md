@@ -7,7 +7,7 @@
   <h1>Installation</h1>
   git clone https://github.com/appuachu/whats_crash.git<br>
   cd whats_crash<br>
-  chmod +x virus.php<br>
+  chmod +x *<br>
   php virus.php<br>
          OR<br>
   php url.php<br>
