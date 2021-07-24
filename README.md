@@ -16,6 +16,18 @@
   
   
   
+  
+  <h1>USAGE</h1>
+  There is Mainly Three virus in whats_crash.virus.php,url.php and voucher.php    
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <h1>AVAILABLE ON</h1><br>
   Kali linux<br>
   Termux<br>
