@@ -13,6 +13,8 @@
   php url.php<br>
          OR<br>
   php voucher.php
+  OR<br>
+  bash url.sh
   
   
   
@@ -23,6 +25,7 @@
   
   $ php virus.php  - it generate a click message when the message click by victim it will crash <br>
   $ php url.php    - it generate a link when attacker send the link to the victim when he click the link it will crash his account<br>
+  $ bash url.sh    - it is almost same to url.php in url.php it has a default url you cant change the url but in url.sh you can create custom url for sending to the victim
   
   
   
