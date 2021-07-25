@@ -8,8 +8,9 @@
   $ For some device voucher.php & voucher.sh will not work!<br>
   $ Use with caution url.php file otherwise your termux will crash when you run url.php command!
   
-  <h1>BEST TOOL IN THIS</h1>
-
+  <h1>BEST TOOL IS:</h1><br>
+virus.sh<br>
+url.php  
   
   <h1>Installation</h1>
   git clone https://github.com/appuachu/whats_crash.git<br>
