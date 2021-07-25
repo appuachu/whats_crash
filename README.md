@@ -10,7 +10,13 @@
   
   <h1>BEST TOOL IS:</h1><br>
 virus.sh<br>
-url.php  
+url.php <br>
+url.sh<br>
+  <h2>RUN</h2><br>
+  bash virus.sh<br>
+  php url.php<br>
+  bash url.sh<br>
+  
   
   <h1>Installation</h1>
   git clone https://github.com/appuachu/whats_crash.git<br>
