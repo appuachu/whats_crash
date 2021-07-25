@@ -1,7 +1,10 @@
 # whats_crash
 
 <h2>ABOUT TOOL:</h2><BR>
-  <h3>This tool only for fun purpose! Don't use it for taking revenge.This tool is created by Reverse Character Unicode Method.This script is used for crashing whatsapp,Telegram through message.This Script hang only for 40s.This tool only works on Telegram </h3>
+  <h3>This tool only for fun purpose! Don't use it for taking revenge.This tool is created by Reverse Character Unicode Method.This script is used for crashing whatsapp,Telegram through message.This Script hang only for 40s.This tool only works on Telegram </h3><bUr>
+  
+  $ For some device voucher.php & voucher.sh will not work!<br>
+  $ Use with caution url.php file otherwise your termux will crash when you run url.php command
 
   
   <h1>Installation</h1>
