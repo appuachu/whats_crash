@@ -21,7 +21,9 @@
   OR<br>
   bash url.sh<br>
   OR<br>
-  bash voucher.sh
+  bash voucher.sh<br>
+  OR<br>
+  bash virus.sh
   
   
   
@@ -32,13 +34,15 @@
   $ php url.php<br>
   $ php voucher.php<br>
   $ bash url.sh<br>
-  $ bash voucher.sh
+  $ bash voucher.sh<br>
+  $ bash virus.sh
   There is Mainly Three virus in whats_crash. virus.php,url.php and voucher.php. virus.php is a click virus it work when we click the message it will crash,also the url.php and voucher.php is almost same. In this php file it contain url of a website when the victim click the link his account will be crash for 40s. 
   
   
   $ php virus.php  - it generate a click message when the message click by victim it will crash <br>
   $ php url.php    - it generate a link when attacker send the link to the victim when he click the link it will crash his account<br>
-  $ bash url.sh    - it is almost same to url.php in url.php it has a default url you cant change the url but in url.sh you can create custom url for sending to the victim
+  $ bash url.sh    - it is almost same to url.php in url.php it has a default url you cant change the url but in url.sh you can create custom url for sending to the victim<br>
+  $ bash virus.sh  - it is the automated tool of virus.php you create custom message in default it is 'click' you can change the message using custom
   
   
   
