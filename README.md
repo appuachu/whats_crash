@@ -5,8 +5,8 @@
   
   <h1>IMPORTANT</h1> 
   
-  $ For some device voucher.php & voucher.sh will not work!<br>
-  $ Use with caution url.php file otherwise your termux will crash when you run url.php command
+  $ For some device voucher.php & voucher.sh will not work!
+  $ Use with caution url.php file otherwise your termux will crash when you run url.php command!
 
   
   <h1>Installation</h1>
